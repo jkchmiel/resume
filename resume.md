@@ -1,71 +1,98 @@
-Markdown Resumé
-===============
+# Jakub Chmiel: Curriculum vitae
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+## Contact
 
-Interests
----------
+*   **Phone: +48600466916**
 
-*   Creating beautiful resumés from simple Markdown documents
+*   **Email: jkchmiel85@gmail.com**
 
+## PROFILE
+
+I have experience in mining massive and messy datasets, generating statistics and visualizations as well as applying machine learning to find useful insights in data.  
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **ChatForce** (Remote, Toruń, Warsaw)
 
-    *Junior Resumé Maker*, 2006 - 2007
+    *Data Scientist - B2B contract*, 11.2017 - 
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    - Projected and built multichannel platform for chat-bots
+    - Analytics and reporting: Big Query, DataStudio
+    - Programming: Python, Kotlin 
+    - Framework and DSL for chat-bots scripts
+    - Google Cloud Platform Stack: Mysql, PubSub, DataFlow, Kubernetes, Beam
+*
+*   **Roche Poland** (Warsaw)
 
-*   **\LaTeX\ + pdflatex**
+    *Senior IT Professional (Data Science)*, 06.2017 - 11.2017
 
-    *Senior Resumé Maker*, 2008 - 2010
+    -   Created PoC for medical questions answering (NLP, Python, DialogFlow, SQL) 
+*
+*   **Allegro Group** (Warsaw)
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    *Senior Data Analyst*, 11.2016 - 05.2017
+    *Data Analyst*, 08.2014 - 10.2016
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+    -   Projected and developed marketing campaigns targeting. (PySpark, Python, Shell, Machine Learning)
+    -   Created analytical data sets, metrics and machine learning algorithms for search offer ranking. (Hive, R, Spark, H2O, Solr, Machine Learning)
+    -   Prepared advanced ad-hoc analysis based on transactional and click-stream data in Oracle DWH and Hadoop (SQL, Hive, R, Spark)
+    -   Developed customer segmentation 
+    -   Modeled traffic forecasts 
+    -   Prepared and carried R internal workshops and trainings
+*   
+*   **Infovide-Matrix S.A.** (Warsaw)
 
-    *Web Resumé Intern*, August 2010
+    *Consultant / Data Mining Analyst*, 04.2012 - 07.2014
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    -   Created up-sell and churn models using KXEN SVM. Designed and created data preprocessing tasks using SAS 4GL and build descriptive models using decision trees in SAS. Identified data quality issues. Reported results for business client (Telco)
+    -   Prepared Funds Transfer Pricing module configuration in OFSAA. (Banking)
+    -   Prepared business analysis and created mapping Source Matrix for data extraction for Data Warehouse and Reporting System project (Telco)
+*
+*   **ZBA S.A. – production company** (Płock)
 
-*   **Markdown with Pandoc**
+    *Technologist / Acting Project Manager*, 04.2010 – 03.2012
 
-    *Resumé Architect*, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
-
+    -   Designed technological process and technical supervision over its implementation
+    -   As PM prepared production schedules, organized final inspection, reported about implementation of the project to the board and business client
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Warsaw School of Economics**, 10.2011 – 09.2012
 
-    *B.S. in Submodules*, May 2012
+    *Postgraduate studies: Statistical Analysis and Data Mining in Business*
+    
+    *Thesis: Predictive modeling of client response for the bank short-term investment offer*
+
+*   **Warsaw University of Technology**, 10.2004 – 01.2010
+
+    *Transport Department*
+    
+    *Specialization: Logistics and Transport Technology*
+    
+    *Master Thesis: Technological Solutions Influence on Warehousing Costs*
 
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+-   *   Python
+-   *   R
+-   *   Machine learning: logistic regression, decision trees, multivariate regression, clustering, forecasting, deep learning 
+-   *   Mining massive data sets
+-   *   SQL, Oracle
+-   *   Hadoop, Hive, PySpark
+-   *   SAS 4GL , Enterprise Miner, Enterprise Guide
 
-*   Familiar with GNU Make, bash
+HUMAN LANGUAGES
+------
+-   *   Native Polish
+-   *   Advanced English , Cambridge ESOL CAE 
+-   *   Basic Spanish 
 
-
+INTERESTS AND ACTIVITIES
+------
+-   *   Data Science: Passive and active participation in many university and professional Meetups in Warsaw. 
+-   *   Travel: My passion for travelling has taken me to many countries around Europe, therefore I have had several opportunities to sample and explore new cultures and communities.
+-   *   Sport: Active participation in sports, especially triathlon. 
